@@ -1,0 +1,41 @@
+body {
+    margin: 0%;
+    background: #E5E5E5; 
+    
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    text-align: center;
+    border: black solid;
+    max-width: 90%;
+}
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+.column{
+    text-align: center;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+button{
+    background: #9AABD8;
+    padding: 5px 10px;
+    text-decoration: none;
+    margin: 2px 4px;
+    cursor: pointer;
+}
+.button{
+ margin-left: 40%;
+ margin-top: 10%;
+ text-align: center;   
+}
